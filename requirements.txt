@@ -29,3 +29,5 @@ google-generativeai
 gTTS
 rsnchat
 nekos.py
+aiogram>=2.23.1
+flask
